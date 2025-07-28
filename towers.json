@@ -111,7 +111,7 @@
     ],
     "last_generated": "2025-07-23 10:48"
   },
-  {
+
   "160332_11": {
     "label": "Oliveri, Võru — Põlva, Himma, Himma küla, Põlva vald",
     "location": "Põlva County, 63002, Estonia",
@@ -223,9 +223,8 @@
       "olafsand"
     ],
     "last_generated": "2025-07-23 08:49"
-  }
-},
-{
+  },
+
   "142646_2": {
     "label": "Tööstuse, Põlgaste küla, Kanepi vald",
     "location": "Põlva County, 63102, Estonia",
@@ -327,4 +326,3 @@
 }
 
 
-}
