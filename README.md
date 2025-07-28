@@ -1,7 +1,9 @@
 ```
 # Huawei LTE Signal Monitor
 
-A Python-based desktop GUI for live monitoring of Huawei LTE router signal strength, band, tower information, and CellMapper metadata.
+🛠️ **Just a quick tool made to adjust an LTE antenna for maximum signal and speed**.
+
+This desktop GUI app connects to a Huawei LTE router and displays realtime signal data (RSRP, RSRQ, SINR), band info, and local tower metadata to help you align your antenna or diagnose connection quality.
 
 ## 📦 Features
 
