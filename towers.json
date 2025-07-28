@@ -110,5 +110,221 @@
       "arseniijj"
     ],
     "last_generated": "2025-07-23 10:48"
+  },
+  {
+  "160332_11": {
+    "label": "Oliveri, Võru — Põlva, Himma, Himma küla, Põlva vald",
+    "location": "Põlva County, 63002, Estonia",
+    "region": 2142,
+    "mcc": 248,
+    "mnc": 3,
+    "bands": [1, 3, 20],
+    "type": "MACRO",
+    "first_seen": "2024-10-23",
+    "last_seen": "2025-07-22",
+    "cells": {
+      "41044993": {
+        "sector": 1,
+        "band": 20,
+        "earfcn": 6400,
+        "rsrp": -52,
+        "rsrq": -2,
+        "snr": 24,
+        "direction": "S (160°)",
+        "bandwidth_mhz": 10
+      },
+      "41044994": {
+        "sector": 2,
+        "band": 20,
+        "earfcn": 6400,
+        "rsrp": -52,
+        "rsrq": -7,
+        "snr": 12,
+        "direction": "S (177°)",
+        "bandwidth_mhz": 10
+      },
+      "41044995": {
+        "sector": 3,
+        "band": 20,
+        "earfcn": 6400,
+        "rsrp": -53,
+        "rsrq": -2,
+        "snr": 19,
+        "direction": "S (192°)",
+        "bandwidth_mhz": 10
+      },
+      "41044997": {
+        "sector": 1,
+        "band": 1,
+        "earfcn": 103,
+        "rsrp": -73,
+        "rsrq": -4,
+        "snr": 30,
+        "direction": "N (14°)",
+        "bandwidth_mhz": 20
+      },
+      "41044998": {
+        "sector": 2,
+        "band": 1,
+        "earfcn": 103,
+        "rsrp": -94,
+        "rsrq": -8,
+        "snr": 10,
+        "direction": "S (174°)",
+        "bandwidth_mhz": 20
+      },
+      "41044999": {
+        "sector": 3,
+        "band": 1,
+        "earfcn": 103,
+        "rsrp": -76,
+        "rsrq": -5,
+        "snr": 30,
+        "direction": "S (173°)",
+        "bandwidth_mhz": 20
+      },
+      "41045001": {
+        "sector": 1,
+        "band": 3,
+        "earfcn": 1574,
+        "rsrp": -77,
+        "rsrq": -4,
+        "snr": 30,
+        "direction": "S (171°)",
+        "bandwidth_mhz": 20
+      },
+      "41045002": {
+        "sector": 2,
+        "band": 3,
+        "earfcn": 1574,
+        "rsrp": -86,
+        "rsrq": -8,
+        "snr": 18,
+        "direction": "S (167°)",
+        "bandwidth_mhz": 20
+      },
+      "41045003": {
+        "sector": 3,
+        "band": 3,
+        "earfcn": 1574,
+        "rsrp": -72,
+        "rsrq": -5,
+        "snr": 29,
+        "direction": "S (172°)",
+        "bandwidth_mhz": 10
+      }
+    },
+    "contributed_by": [
+      "hanno",
+      "Lordami",
+      "omr34",
+      "Sala",
+      "arseniijj",
+      "olafsand"
+    ],
+    "last_generated": "2025-07-23 08:49"
   }
+},
+{
+  "142646_2": {
+    "label": "Tööstuse, Põlgaste küla, Kanepi vald",
+    "location": "Põlva County, 63102, Estonia",
+    "region": 2142,
+    "mcc": 248,
+    "mnc": 3,
+    "bands": [1, 20],
+    "type": "MACRO",
+    "first_seen": "2018-05-18",
+    "last_seen": "2025-07-27",
+    "cells": {
+      "36517377": {
+        "sector": 0,
+        "band": 20,
+        "earfcn": 6400,
+        "rsrp": -43,
+        "rsrq": -2,
+        "snr": 30,
+        "direction": "SW (212°)",
+        "bandwidth_mhz": 10
+      },
+      "36517378": {
+        "sector": 1,
+        "band": 20,
+        "earfcn": 6400,
+        "rsrp": -82,
+        "rsrq": -2,
+        "snr": 54,
+        "direction": "S (175°)",
+        "bandwidth_mhz": 10
+      },
+      "36517379": {
+        "sector": 2,
+        "band": 20,
+        "earfcn": 6400,
+        "rsrp": -73,
+        "rsrq": -2,
+        "snr": 58,
+        "direction": "S (199°)",
+        "bandwidth_mhz": 10
+      },
+      "36517381": {
+        "sector": 0,
+        "band": 1,
+        "earfcn": 103,
+        "rsrp": -65,
+        "rsrq": -2,
+        "snr": 34,
+        "direction": "S (198°)",
+        "bandwidth_mhz": 20
+      },
+      "36517382": {
+        "sector": 1,
+        "band": 1,
+        "earfcn": 103,
+        "rsrp": -87,
+        "rsrq": -5,
+        "snr": 23,
+        "direction": "S (185°)",
+        "bandwidth_mhz": 20
+      },
+      "36517383": {
+        "sector": 2,
+        "band": 1,
+        "earfcn": 103,
+        "rsrp": -73,
+        "rsrq": -2,
+        "snr": 29,
+        "direction": "S (201°)",
+        "bandwidth_mhz": 20
+      }
+    },
+    "contributed_by": [
+      "VeixES",
+      "Sala",
+      "Lordami",
+      "olafsand",
+      "hanno",
+      "omr34",
+      "Mapitall",
+      "arseniijj",
+      "urmasr",
+      "andressc",
+      "TarmoK",
+      "mikidonald",
+      "Janboy",
+      "Andry2109",
+      "jj9987",
+      "Krastnieks",
+      "teritaja",
+      "aintsman",
+      "taavim",
+      "Viljar249",
+      "Kaidoe",
+      "carrot"
+    ],
+    "last_generated": "2025-07-28 15:01"
+  }
+}
+
+
 }
