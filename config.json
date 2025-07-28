@@ -1,0 +1,7 @@
+{
+  "router_host": "http://192.168.8.1/",
+  "username": "admin",
+  "password": "admin123",
+  "refresh_interval": 1
+
+}
